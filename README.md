@@ -1,8 +1,8 @@
-# Plant Disease Prediction using Deep Learning 🌿
+# Plant Disease Prediction using Deep Learning 
 
 This project utilizes a deep Convolutional Neural Network (CNN) to classify plant diseases from leaf images. It addresses the critical agricultural challenge of early disease detection, providing a fast, automated, and accessible diagnostic tool for farmers and gardeners. The model is trained on the "New Plant Diseases Dataset" and can classify leaves into 38 different categories with high accuracy.
 
-## \#\# About The Project 🎯
+## \#\# About The Project 
 
 Plant diseases pose a significant threat to food security, leading to substantial crop losses worldwide. Manual disease detection is often slow, requires expert knowledge, and can be inconsistent. This project leverages the power of deep learning to automate this process.
 
@@ -19,7 +19,7 @@ The model was trained on the **New Plant Diseases Dataset** available on Kaggle.
 
 -----
 
-## \#\# Technology Stack 🛠️
+## \#\# Technology Stack 
 
 This project was built using the following technologies and libraries:
 
@@ -31,7 +31,7 @@ This project was built using the following technologies and libraries:
 
 -----
 
-## \#\# Model Architecture 🧠
+## \#\# Model Architecture 
 
 The project uses a deep Sequential CNN architecture inspired by VGGNet. It consists of a convolutional base for feature extraction and a dense classifier head for prediction.
 
@@ -63,7 +63,7 @@ The model has over **7.8 million** trainable parameters.
 
 -----
 
-## \#\# Installation & Usage ▶️
+## \#\# Installation & Usage 
 
 To get a local copy up and running, follow these steps.
 
@@ -97,7 +97,7 @@ To get a local copy up and running, follow these steps.
 
 -----
 
-## \#\# Results & Evaluation 📈
+## \#\# Results & Evaluation 
 
 The model achieved an accuracy of approximately **95%** on the validation set, demonstrating strong generalization capabilities.
 
@@ -111,7 +111,7 @@ Performance was thoroughly analyzed using:
 
 -----
 
-## \#\# Future Improvements ✨
+## \#\# Future Improvements 
 
 While the model performs well, there are several avenues for future improvement:
 
